@@ -1,4 +1,4 @@
 #Prueba 
 *Carlos Mejía Galván*
 
-Practica curso 
+Practica curso usando GitHub
